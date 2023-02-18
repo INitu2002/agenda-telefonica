@@ -1,0 +1,6 @@
+5
+Ionescu Maria 1 40 235457895 . yahoo
+Enescu Ion 1 46 148798564 . gmail
+Sorescu Otilia 2 43 789451221 43 121204547 . yahoo
+Mirica George 1 30 478512443 . gmail
+Mirica Ana 2 46 045879654 46 251442230 . gmail
